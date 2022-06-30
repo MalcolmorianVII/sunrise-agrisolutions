@@ -8,8 +8,10 @@
 /* Header  */
 header {
     overflow: hidden;
-    padding: 20px 10px;
+    padding: 10px 10px;
     background-color: #2c62de;
+    margin-left: 16px;
+    margin-right: 16px;
 }
 
 header label,nav{

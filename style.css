@@ -122,4 +122,10 @@ footer {
         line-height: 15px;
         width: 45%;
     }
+
+    nav ul li a {
+        font-size: 12px;
+        font-weight: bold;
+        text-decoration: none;
+    }
 }

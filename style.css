@@ -42,24 +42,6 @@ nav ul li a {
     text-decoration: none;
 }
 
-
-/* header > label , nav {
-    display: inline-block;
-    width: 40%;
-    vertical-align: bottom;
-} */
-
-/* nav ul {
-    list-style: none;
-}
-nav ul li {
-    float: left;
-    width: 33.33%;
-} */
-
-/* nav ul li a {
-    font-size: large;
-} */
 /* Contact page */
 
 /* Add a background color and some padding around the form */
@@ -125,4 +107,19 @@ footer {
 
 .services {
     padding: 0 45px;
+}
+
+/* MEDIA QUERRIES */
+
+@media screen and (max-width:500px){
+    header {
+        padding: 10px 5px;
+    }
+    
+    header label,nav {
+        padding: 6px;
+        font-size: 12px;
+        line-height: 15px;
+        width: 45%;
+    }
 }

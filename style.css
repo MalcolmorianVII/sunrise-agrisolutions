@@ -123,6 +123,10 @@ aside {
     box-shadow: inset 5px 0 5px -5px #29627e;
 }
 
+aside > blockquote {
+    margin: .1rem;
+}
+
 /* MEDIA QUERRIES */
 
 @media screen and (max-width:500px){

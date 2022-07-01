@@ -112,6 +112,16 @@ footer {
 .services {
     padding: 0 45px;
 }
+aside {
+    font-family: 'Fira sans',sans-serif;
+    float: right;
+    margin-left: .5rem;
+    padding-left: .5rem;
+    width: 40%;
+    font-style: italic;
+    color: #29627e;
+    box-shadow: inset 5px 0 5px -5px #29627e;
+}
 
 /* MEDIA QUERRIES */
 

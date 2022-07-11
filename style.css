@@ -14,13 +14,13 @@
     margin-right: 48px;
 }
 /* Header  */
-header {
+/* header {
     overflow: hidden;
     padding: 10px 10px;
     background-color: #2c62de;
-}
+} */
 
-header label,nav{
+/* header label,nav{
     float: left;
     color: black;
     text-align: center;
@@ -28,9 +28,9 @@ header label,nav{
     font-size: 18px;
     line-height: 25px;
     width: 45%;
-}
+} */
 
-nav ul {
+/* nav ul {
     list-style: none;
 }
 
@@ -44,7 +44,7 @@ nav ul li a {
     font-size: 25px;
     font-weight: bold;
     text-decoration: none;
-}
+} */
 
 /* about page */
 
@@ -133,7 +133,7 @@ aside > blockquote {
 ===============================================
 */
 
-.team > img {
+.team-info > img {
     border-radius: 50%;
     height: 130px;
     margin: -66px 0 22px 0;

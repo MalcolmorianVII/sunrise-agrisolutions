@@ -127,7 +127,31 @@ aside > blockquote {
     margin: .1rem;
 }
 
-/* MEDIA QUERRIES */
+/*
+===============================================
+                ABOUT US
+===============================================
+*/
+
+.team > img {
+    border-radius: 50%;
+    height: 130px;
+    margin: -66px 0 22px 0;
+    vertical-align: top;
+}
+
+.team-info {
+    border: 1px solid #dfe2e5;
+    border-radius: 5px;
+    margin-top: 88px;
+    padding-bottom: 22px;
+    text-align: center;
+  }
+/*
+===============================================
+                MEDIA QUERRIES
+===============================================
+*/
 
 @media screen and (max-width:500px){
     header {
